@@ -1,0 +1,29 @@
+{
+  "name": "ntask-api-exec",
+  "version": "1.0.0",
+  "description": "Execução dos exemplos do livro",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-cordeiro/Ntask-api-exec.git"
+  },
+  "keywords": [
+    "Ntask",
+    "Api",
+    "Rest"
+  ],
+  "author": "Alexsander <alexsandercordeiroalves@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-cordeiro/Ntask-api-exec/issues"
+  },
+  "homepage": "https://github.com/Alex-cordeiro/Ntask-api-exec#readme",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
